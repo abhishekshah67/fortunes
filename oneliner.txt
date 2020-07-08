@@ -1,0 +1,186 @@
+
+    Beer and donuts, the meal of champions!
+    Mmm...beer.
+    There are 10 types of people in the world. Those who understand binary and those who don't.
+    Together we stand, divided we fall
+    I thought Watney's was an anatomical question until I discovered Ruddles
+    The golden rule: He who has the gold makes the rules.
+    There are three kinds of mathematicians in the world: those who can count, and those who can't.
+    When you are going through hell, keep going. -- Winston Churchill
+    The three great virtues of a programmer: laziness, impatience, and hubris. -- Larry Wall
+    Apathy in action
+    How much wood would a woodchuck chuck if a woodchuck could chuck wood ?
+    Mmmmmmmmm.........bugs............
+    You're some sort of big, fat, smart-bug, aren't you? -- Johnny Rico
+    Technicalities are the soul of the law.
+    Howdy Howdy Howdy Howdy Howdy Ho!
+    Look behind you, a three headed monkey!
+    Lottery: A tax on people who are bad at math.
+    This statement is false.
+    Living on Earth is expensive, but it includes a free trip around the sun
+    In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
+    It's not a bug, it's a feature.
+    The perversity of the Universe tends toward a maximum
+    Life is pain, your highness.
+    Tomorrow never comes for those who live two days in the future
+    If you don't have time to do it right, when will you have time to do it over?
+    A quarter for rent, a pound for sale, a bit for now.
+    I'm a Mog, half man, half dog. I'm my own best friend.
+    As people say in Africa: people that always are on a hurry are already dead.
+    I wouldn't know subtlety if it hit me in the face
+    What is the point in a library when you can't read the source?
+    Aviod virus. Boil your PC before using it.
+    "The Pleasure Of Finding Things Out" - Richard P. Feynman
+    "They have the Internet on computers now?" --Homer Simpson
+    "You tried your best and you failed miserably. The lesson is 'never try'." --Homer Simpson
+    Somewhere, there is a very fat and very naked hairy man jumping up and down in the shower singing a country song. Think about that the next time you ask to be omniscient.
+    Bug, n: An elusive creature living in a program that makes it incorrect. The activity of 'debugging,' or removing bugs from a program, ends when people get tired of doing it, not when the bugs are removed.
+    Not all questions need asking to be answered. Not all truths need telling to be known. -ndb
+    We may not return the affection of those who like us, but we always respect their good judgement.
+    I once heard the voice of God. It said "Vrrrrmmmmm." Unless it was just a lawn mower.
+    We've got to do something. This is something. Let's do it. (from Yes Minister, I think)
+    I wasn't looking too good, but I was feeling real well...
+    Xenophobes should go back to Xenophobia!
+    They say that if you play the WinMe CD backwards, you can hear satanic words ... but what's actually worse is, if you play it forwards it installs Windows.
+    I will not be pushed, filed, stamped, indexed, briefed, debriefed or numbered...I am not a number! I am a free man!
+    / is the root of /all/evil
+    Real programmers use "copy con: > program.exe"
+    Even hard work is a skill
+    "A botnet is comparable to compulsory military service for windows boxes" - Stromberg
+    God must love stupid people, he made so many of them.
+    Man must love stupid Gods, he made so many of them.
+    Microsoft's communication protocols are simple internet standards obfuscated in complex RPC calls - Microsoft calls this its intellectual property crown jewels. (Andrew Orlowski, The Register)
+    Bugs have a lot of offspring (please squash them fast).
+    Some people believe that religion is a choice
+    Go home bugs, nothing to see here
+    To debug or not to debug
+    "Conscience doesn't always keep you from doing wrong, but it does keep you from enjoying it"
+    If it weren't for INsanity, I'd have no sanity at all! -- Daniel Santos, 1994
+    If it weren't for NONsense, I'd make no sense at all! -- Daniel Santos, 2004
+    Subject: JVM' sperm size always increase after hot deploy to tomcat 5.0.28 (Seen on tomcat-user list, April 2005)
+    83.2 percent of all statistics are made up on the spot.
+    Winners never quit , Quitters never win ,But people who never wins and never quit are fools
+    If you can stop the moon, you don't stop me now!
+    Good judgement comes with experience. Unfortunately, the experience usually comes from bad judgement.
+    Who cares, anyway?
+    Improve your IQ - eat gifted kids
+    Monkeys are always funny. Really.
+    Is there life after /sbin/halt -p?
+    One bug a day keeps a programmer healthy
+    Don"t debug today what you could debug tomorrow, later or never
+    the box said: "Requires Windows9x,Me,Nt,2000 or better" . So I installed Linux !
+    bug anyone ?
+    A computer lets you make more mistakes faster than any other invention in human history, with the possible exception of handguns and tequila. - Mitch Radcliffe
+    It is practically impossible to teach good programming style to students that have had prior exposure to BASIC; as potential programmers they are mentally mutilated beyond hope of regeneration. -- Edsger Dijkstra
+    The 90-90 Rule: The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.
+    If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it. -- Murphy's Law
+    Finangle's Law of Dynamic Negatives: Anything that can go wrong, will go wrong.
+    Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. -- Rich Cook
+    An idiot with a computer is a faster, better idiot. -- Rich Julius
+    If at first you don't succeed, you must be a programmer.
+    How's my driver? Call 0x00000000
+    do() || do_not(); // try();
+    There's no place like 127.0.0.1
+    its not whats on the outside its the inside that counts :D !!wink wink :D
+    Programming is hard? Of course its hard! If it were easy, they wouldn't need us!
+    Mmmmmmmmmm pie
+    If your selling crazy, don't bother, we're all stocked up here
+    Jesus is coming! ... try to look busy.
+    The gene pool could use a little chlorine.
+    Got bugs?
+    If I had wheels, I would be a bicycle.
+    Worse than an idiot is an idiot with enthusiasm.
+    Lets chase out the bugs guys!!!
+    It is simple ... We are where we should be, doing what we should be doing. Otherwise, we'd be somewhere else, doing something else. -- Stein
+    My opinions may have changed, but not the fact that I am right.
+    If you're not part of the solution, you're part of the precipitate.
+    Why can't you be a non-conformist like anyone else?
+    For reasons beyond my control, I am the Master of my Soul and the Captain of my Destiny
+    What do I think of Western civilisation? I think it would be a very good idea. -- Mahatma Gandhi
+    You are in a maze of twisty little passages, all alike.
+    Fire in the hole!!!
+    if evening sun is shining, have dwarfs long shadows too
+    The Golden Age : All people have one or more golden teeth.
+    I'm tryin' ta think but nothin' happens!
+    Sanitized for your protection.
+    A unix webserver is like a wigwam - no windows, no gates, apache inside.
+    42
+    Who hid my keyboard?
+    I do more work all day than some people do before 5 AM
+    I don't need time. What I need is a deadline. -- Miles Davis
+    Your browser do not support html pages. Please, render it with paper and pencil.
+    Weekee! Weekee! Here's a bug!
+    Patience has its limits. Take it too far, and it's cowardice.
+    I'm quipless
+    stay calm
+    He is who is not honest in small things, cannot be honest in larger things
+    A bug is a bug is a bug.
+    pizza tastes like cheese and cheese tastes like pizza
+    By working faithfully eight hours a day, you may eventually get to be a boss and work twelve hours a day.
+    If you love something, set it free. If it comes back to you, it's yours, if it doesn't, it never was.
+    It was like this when I got here...
+    If you love something, set it free. If it doesn't come back to you, hunt it down and kill it.
+    Anybody want a peanut?
+    If anything can go wrong, it will (Murphy's law) ... Murphy was an optimist!
+    Feature, not a bug !
+    Self confidence is the first requisite to great undertakings
+    It works on my machine ...
+    Accept the challenges so that you can feel the exhilaration of victory. -Geo. Patton
+    To understand recursion, we must first understand recursion.
+    What goes up, must come down. Ask any system administrator.
+    We are not human beings going through a temporary spiritual experience...We are spiritual beings going through a temporary human experience...
+    Why don't cannibals like comedians? They taste funny.
+    Go back to work, you are not paid to read quips from bugzilla
+    The answer is 34.
+    The real problem is between the keyboard and the chair
+    Let's work? :)
+    All isn't well even if it ends well
+    Only the type of bug changes. The number of bugs always remain constant.
+    You are living proof that God has a sense of humor.
+    [some_noob] How do I become a kernel hacker?\n[some_guru] vi /vmlinuz
+    True programmers never die, they just branch to an odd address
+    Computers are not intelligent, but they think they are.
+    Contrary to popular belief, UNIX is user friendly. It's just very particular about who it makes friends with.
+    Try not to look sulky and very serious for a change
+    Computers are good at following instructions, but not at reading your mind. --Donald E. Knuth (In The TeXbook, p. 9)
+    "There are two types of programming languages; the ones that people bitch about and the ones that no one uses." --Bjarne Stroustrup
+    There is no spoon
+    No, not me !
+    Live well, and love well... And when you reach the top of happiness, remember the those who always wished it for you.
+    Do you feel more like you do now than you did when you first got here?
+    Better do action then complain
+    Take a deep breath, NOW!
+    Goonies never say die.
+    There is no try, only do
+    I say that application is exceptional because it always throws a lot of exceptions.
+    Don't you know that in some cultures bugs are cooked and eaten? :P
+    Pang is the past tense of ping
+    Need another Gin&Tonic?
+    All your bugs are belong to us!
+    To debug or not to bug, that is the question!
+    Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them. /Orwell
+    Quick quips are well-equipped with quacking nonsense.
+    be() || !be() ? true : false
+    The difference between insanity and genius is measured by success
+    Nothing, is impossible... Everything, is possible...including buggy fixes
+    The only job you can start at the top is digging a hole
+    All that is gold does not glitter, not all those who wander are lost.
+    Knock knock. Who's there? The interrupting cow. The interru--Moooooooo!
+    "Zarro Boogs found." Bugzilla is like an old uncle who tells the same corny joke every time you see him.
+    Reality bites...
+    God is real, unless declared integer.
+    Life is Pain but without any Gain, Your highness
+    Performance is not a checkbox somewhere in Options dialog.
+    When using your debugger, consider who the bugger was that buggered things up.
+    Oh...is this a bug now??!!! It was called a change request the last time I checked!
+    Failure is not an option, it comes bundled with Windows!
+    Sunsets are not valued because we could not pay for sunsets.
+    Laziness is the tendency to rest without having done any work. ---Immanuel Kant
+    I do not eat simply chocolate. I give calories a at home.
+    For a moment, nothing happened.Then, after a second or so, nothing continued to happen. -- Douglas Adams
+    Working As Designed
+    Go home bugs, nothing to see here!
+    There are 2 kinds of people, one who works, and one who takes credit for the others work, I prefer to be in the first group as there is less competition - Indira Gandhi
+    It's not a bug. It's an undocumented feature.
+    Second law of thermodynamics: Chaos Will Reign.
+
