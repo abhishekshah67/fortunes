@@ -27,5 +27,5 @@ echo  -e "\033[33;7m$(shuf -n 1 ~/quips/oneliner.txt)\033[0m"
 
 My final ~/.bashrc 
 ~~~
-echo  -e "\033[33;7m$( fortune 30% oneliner 30% ascii-art hitchhiker 10% kernelnewbies osfortune )\033[0m"
+echo  -e "\033[33;7m$( fortune 60% oneliner hitchhiker 20% kernelnewbies osfortune )\033[0m"
 ~~~
