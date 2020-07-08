@@ -10,7 +10,7 @@ sudo dnf install fortune-mod
 - Copy the bugzilla quips from the files `onliner` and `oneliner.dat`
 
 ~~~
-cp oneliner.* /usr/share/games/fortunes/
+sudo cp oneliner oneliner.dat /usr/share/games/fortune/
 ~~~
 
 - Add to `~/.bashrc`
@@ -23,4 +23,9 @@ You can create your own fortunes by adding `%` between quotes and generate the d
 If you do not care for online database or just want it from one file you can use 
 ~~~
 echo  -e "\033[33;7m$(shuf -n 1 ~/quips/oneliner.txt)\033[0m"
+~~~
+
+My final ~/.bashrc 
+~~~
+echo  -e "\033[33;7m$( fortune 30% oneliner 30% ascii-art hitchhiker 10% kernelnewbies osfortune )\033[0m"
 ~~~
