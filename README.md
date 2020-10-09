@@ -1,6 +1,6 @@
-# bugzilla quips fortunes
+# Apache Bugzilla quips as fortunes 
 
-My fortune file from bugzilla quips
+I am using the Apache Bugzilla quips as fortunes and setting it to print a oneliner each time a new terminal session is started. 
 
 - Install fortune-mod
 ~~~
